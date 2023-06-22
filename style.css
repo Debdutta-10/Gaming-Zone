@@ -1,0 +1,40 @@
+body {
+    align-items: center;
+    background: url("bg2.jpg");
+    background-size: cover;
+    font-family: 'Cinzel', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Righteous', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+.neon-text {
+    color: #e040fb;
+    text-shadow: 0 0 10px #350c3d, 0 0 20px #e040fb, 0 0 30px #e040fb, 0 0 40px #e040fb;
+    text-align: center;
+    margin-top: 15%;
+    font-size: 6rem;
+}
+
+.container {
+    text-align: center;
+}
+
+.neon-text2 {
+    font-size: 48px;
+    text-decoration: none;
+    color: #00FF55;
+    text-shadow: 0 0 10px #00E048, 0 0 20px #00E048, 0 0 30px #00E048, 0 0 40px #00E048;
+    cursor: pointer;
+    transition: text-shadow 0.8s;
+}
+
+.neon-text2:hover {
+    text-shadow: 0 0 10px #034318, 0 0 20px #00FF55, 0 0 30px #00FF55, 0 0 40px #00FF55;
+    font-size: 60px;
+}
+
+
+
+
